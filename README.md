@@ -4,6 +4,7 @@
 - para saber mais entre em contato conosco pelo nosso instagram
 - @loja.arco-íris
 - entregamos em todo o Brasil com o frete grátis
+- atendimentos de segunda á sábado das 8:00 ás 18:00
 
 <!---
 emilidograu/emilidograu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
